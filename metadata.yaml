@@ -1,0 +1,32 @@
+_repo: The-Black-Robe_1587
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: In The Black Robe, a priest goes on the hunt for stolen church property.
+  Readers familiar with Collins' work will recognize characters from Collins' other
+  works like The Moonstone and The Haunted Hotel.
+gutenberg_issued: '2006-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Dueling -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Chastity, Vow of -- Fiction'
+- !lcsh 'Priesthood -- Fiction'
+- GITenberg
+title: The Black Robe
+url: http://www.gutenberg.org/ebooks/1587
