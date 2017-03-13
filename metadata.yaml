@@ -1,5 +1,8 @@
 _repo: The-Black-Robe_1587
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Collins, Wilkie
@@ -12,6 +15,8 @@ creator:
 description: In The Black Robe, a priest goes on the hunt for stolen church property.
   Readers familiar with Collins' work will recognize characters from Collins' other
   works like The Moonstone and The Haunted Hotel.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1587#The-Black-Robe
 gutenberg_issued: '2006-02-22'
 gutenberg_type: Text
 identifiers:
